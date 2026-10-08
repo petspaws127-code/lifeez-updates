@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.2/lifeez-v1.1.2-release.apk",
-  "changelog": "Dark mode readability fix: black text on light chips. Robust download with retry+resume.",
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.3/lifeez-v1.1.3-release.apk",
+  "changelog": "WhatsApp removed from Settings. AI chat text white in dark mode. Login goes directly to Home (no repeated Get Started).",
   "mandatory": false
 }
