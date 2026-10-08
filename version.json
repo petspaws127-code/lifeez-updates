@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.3.1/lifeez-v1.3.1-release.apk",
-  "changelog": "Timeline feed dashboard, 4-item nav (Calendar moved to +), 6 options in + sheet.",
+  "versionCode": 19,
+  "versionName": "1.3.2",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.3.2/lifeez-v1.3.2-release.apk",
+  "changelog": "Unified #1A9C63 theme across app. Timeline dashboard. 4-item nav. 6 options in + sheet.",
   "mandatory": false
 }
