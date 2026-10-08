@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.2.0/lifeez-v1.2.0-release.apk",
-  "changelog": "FINAL: Real Google logo, friendly error messages, Google OAuth fixed, welcome layout fixed, auto-update on startup, data loss fixed.",
+  "versionCode": 15,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.2.3/lifeez-v1.2.3-release.apk",
+  "changelog": "Fixed: Dynamic version display, deep link OAuth, all previous fixes.",
   "mandatory": false
 }
