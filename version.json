@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.2.4",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.2.4/lifeez-v1.2.4-release.apk",
-  "changelog": "User-scoped data: each user sees only their own data. All previous fixes included.",
+  "versionCode": 18,
+  "versionName": "1.3.1",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.3.1/lifeez-v1.3.1-release.apk",
+  "changelog": "Timeline feed dashboard, 4-item nav (Calendar moved to +), 6 options in + sheet.",
   "mandatory": false
 }
