@@ -1,6 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "1.1.0",
-  "apkUrl": "PENDING_UPLOAD",
-  "notes": "In-app updater enabled. Home simplified to 4 main features."
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.0/lifeez-v1.1.0-release.apk",
+  "changelog": "Final: Home 7 + Plus 2 + Activity feed. WhatsApp removed. Data save fix.",
+  "mandatory": false
 }
