@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.6/lifeez-v1.1.6-release.apk",
-  "changelog": "Google Sign-In configured with Cloud Client ID. Email login working.",
+  "versionCode": 10,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.8/lifeez-v1.1.8-release.apk",
+  "changelog": "CRITICAL FIXES: Data no longer deleted on logout. Auto-update check on app startup.",
   "mandatory": false
 }
