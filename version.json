@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.5/lifeez-v1.1.5-release.apk",
-  "changelog": "Clean login redesign: Google + Email only. Professional UI with forgot password and signup toggle.",
+  "versionCode": 8,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.6/lifeez-v1.1.6-release.apk",
+  "changelog": "Google Sign-In configured with Cloud Client ID. Email login working.",
   "mandatory": false
 }
