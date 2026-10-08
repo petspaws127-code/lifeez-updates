@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.1/lifeez-v1.1.1-release.apk",
-  "changelog": "Dark mode fix: pure black backgrounds, white text for readability.",
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.2/lifeez-v1.1.2-release.apk",
+  "changelog": "Dark mode readability fix: black text on light chips. Robust download with retry+resume.",
   "mandatory": false
 }
