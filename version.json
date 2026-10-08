@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.1.8/lifeez-v1.1.8-release.apk",
-  "changelog": "CRITICAL FIXES: Data no longer deleted on logout. Auto-update check on app startup.",
+  "versionCode": 12,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.2.0/lifeez-v1.2.0-release.apk",
+  "changelog": "FINAL: Real Google logo, friendly error messages, Google OAuth fixed, welcome layout fixed, auto-update on startup, data loss fixed.",
   "mandatory": false
 }
