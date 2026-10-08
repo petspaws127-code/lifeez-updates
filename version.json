@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.3",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.2.3/lifeez-v1.2.3-release.apk",
-  "changelog": "Fixed: Dynamic version display, deep link OAuth, all previous fixes.",
+  "versionCode": 16,
+  "versionName": "1.2.4",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.2.4/lifeez-v1.2.4-release.apk",
+  "changelog": "User-scoped data: each user sees only their own data. All previous fixes included.",
   "mandatory": false
 }
