@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
+  "versionCode": 26,
   "versionName": "1.3.3",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.3.6/lifeez-v1.3.6-release.apk",
-  "changelog": "Simplified UI. Subtitles removed. Sign out #1A9C63. Build fix.",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.3.9/lifeez-v1.3.9-release.apk",
+  "changelog": "Auto-update fixed. Google G new. Simplified UI.",
   "mandatory": false,
-  "version": "1.3.6"
+  "version": "1.3.9"
 }
