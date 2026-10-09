@@ -4,5 +4,7 @@
   "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.2/lifeez-v1.4.2-release.apk",
   "changelog": "Update download fixed (browser). Logo #1A9C63.",
   "mandatory": false,
-  "version": "1.4.2"
+  "version": "1.4.3",
+  "version_code": 30,
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.3/lifeez-v1.4.3-release.apk"
 }
