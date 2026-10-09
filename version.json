@@ -1,7 +1,8 @@
 {
-  "versionCode": 20,
+  "versionCode": 22,
   "versionName": "1.3.3",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.3.3/lifeez-v1.3.3-release.apk",
-  "changelog": "Unified icons to #1A9C63. Timeline dashboard. 4-item nav. 6 options in + sheet.",
-  "mandatory": false
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.3.5/lifeez-v1.3.5-release.apk",
+  "changelog": "Build fix. Timeline dashboard. Unified #1A9C63 theme. 4-item nav.",
+  "mandatory": false,
+  "version": "1.3.5"
 }
