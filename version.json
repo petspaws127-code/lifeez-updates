@@ -2,9 +2,9 @@
   "versionCode": 29,
   "versionName": "1.3.3",
   "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.2/lifeez-v1.4.2-release.apk",
-  "changelog": "Update download fixed (browser). Logo #1A9C63.",
+  "changelog": "Bill Saver, AI Daily Briefing, Weekly Review, Travel Weather, ADHD Mode, Trip Planner, Pet Health AI, Location Reminders + Smart AI engine",
   "mandatory": false,
-  "version": "1.4.3",
-  "version_code": 30,
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.3/lifeez-v1.4.3-release.apk"
+  "version": "1.4.4",
+  "version_code": 31,
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.4/lifeez-v1.4.4-release.apk"
 }
