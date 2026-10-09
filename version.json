@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
+  "versionCode": 29,
   "versionName": "1.3.3",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.1/lifeez-v1.4.1-release.apk",
-  "changelog": "Welcome: cream background. Auto-update fixed.",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.2/lifeez-v1.4.2-release.apk",
+  "changelog": "Update download fixed (browser). Logo #1A9C63.",
   "mandatory": false,
-  "version": "1.4.1"
+  "version": "1.4.2"
 }
