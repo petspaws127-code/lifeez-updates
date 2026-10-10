@@ -1,14 +1,14 @@
 {
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.11/lifeez-v1.4.11-release.apk",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.11/lifeez-v1.4.11-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.11/lifeez-v1.4.11-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.11/lifeez-v1.4.11-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.11/lifeez-v1.4.11-release.apk",
   "changelog": "Google login button now uses the official colorful Google 'G' logo (fixed black background issue). Apple button unchanged.",
   "mandatory": false,
   "notes": "Google login button now uses the official colorful Google 'G' logo (fixed black background issue). Apple button unchanged.",
   "version": "1.4.10",
-  "versionCode": 35,
-  "versionName": "1.4.10",
+  "versionCode": 36,
+  "versionName": "1.4.11",
   "version_code": 35
 }
