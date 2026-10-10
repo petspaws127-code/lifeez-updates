@@ -1,14 +1,14 @@
 {
-  "versionCode": 32,
-  "versionName": "1.4.7",
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.7/lifeez-v1.4.7-release.apk",
-  "apkUrlArm64": "",
-  "apkUrlV7": "",
-  "apkUrlX86_64": "",
-  "notes": "Auth fixes: pure 6-digit email OTP login (no magic link), Google OAuth fixed with new client, splash goes straight to login (welcome page removed).",
-  "changelog": "Auth fixes: pure 6-digit email OTP login (no magic link), Google OAuth fixed with new client, splash goes straight to login (welcome page removed).",
+  "versionCode": 33,
+  "versionName": "1.4.8",
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.8/lifeez-v1.4.8-arm64-release.apk",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.8/lifeez-v1.4.8-arm64-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.8/lifeez-v1.4.8-armv7-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.8/lifeez-v1.4.8-x86_64-release.apk",
+  "notes": "Trips AI upgrade: smart trip input (destination, dates, trip type, budget, voice) -> Gemini day-by-day itinerary, weather-aware packing list, expense breakdown -> one-tap sync to reminders. Smaller per-device APKs (~39MB) with ABI-aware auto-update. 6-digit OTP email login.",
+  "changelog": "Trips AI upgrade: smart trip input (destination, dates, trip type, budget, voice) -> Gemini day-by-day itinerary, weather-aware packing list, expense breakdown -> one-tap sync to reminders. Smaller per-device APKs (~39MB) with ABI-aware auto-update. 6-digit OTP email login.",
   "mandatory": false,
-  "version": "1.4.7",
-  "version_code": 32,
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.7/lifeez-v1.4.7-release.apk"
+  "version": "1.4.8",
+  "version_code": 33,
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.8/lifeez-v1.4.8-arm64-release.apk"
 }
