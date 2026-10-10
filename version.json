@@ -1,1 +1,14 @@
-{"apkUrl":"https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.9/lifeez-v1.4.9-arm64-release.apk","apkUrlArm64":"https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.9/lifeez-v1.4.9-arm64-release.apk","apkUrlV7":"https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.9/lifeez-v1.4.9-arm64-release.apk","apkUrlX86_64":"https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.9/lifeez-v1.4.9-arm64-release.apk","apk_url":"https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.9/lifeez-v1.4.9-arm64-release.apk","changelog":"Shorebird OTA enabled: future Dart-only fixes will update automatically without APK download. Trips states section removed.","mandatory":false,"notes":"Shorebird OTA enabled: future Dart-only fixes will update automatically without APK download. Trips states section removed.","version":"1.4.9","versionCode":34,"versionName":"1.4.9","version_code":34}
+{
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.10/lifeez-v1.4.10-release.apk",
+  "changelog": "Google login button now uses the official colorful Google 'G' logo (fixed black background issue). Apple button unchanged.",
+  "mandatory": false,
+  "notes": "Google login button now uses the official colorful Google 'G' logo (fixed black background issue). Apple button unchanged.",
+  "version": "1.4.10",
+  "versionCode": 35,
+  "versionName": "1.4.10",
+  "version_code": 35
+}
