@@ -1,14 +1,14 @@
 {
-  "version": "1.4.29",
-  "versionName": "1.4.29",
-  "versionCode": 53,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
-  "changelog": "Header: outlined person icon.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
+  "version": "1.4.30",
+  "versionName": "1.4.30",
+  "versionCode": 54,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
+  "changelog": "Universal AI Router: navigation commands + strict-time tasks become Reminders with notifications.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
   "mandatory": false,
-  "notes": "Header: outlined person icon.",
-  "version_code": 53
+  "notes": "Universal AI Router: navigation commands + strict-time tasks become Reminders with notifications.",
+  "version_code": 54
 }
