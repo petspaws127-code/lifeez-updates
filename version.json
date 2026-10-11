@@ -1,14 +1,14 @@
 {
-  "version": "1.4.28",
-  "versionName": "1.4.28",
-  "versionCode": 52,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.28/lifeez-v1.4.28-release.apk",
-  "changelog": "Popup avatar: robust photo handling.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.28/lifeez-v1.4.28-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.28/lifeez-v1.4.28-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.28/lifeez-v1.4.28-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.28/lifeez-v1.4.28-release.apk",
+  "version": "1.4.29",
+  "versionName": "1.4.29",
+  "versionCode": 53,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
+  "changelog": "Header: outlined person icon.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.29/lifeez-v1.4.29-release.apk",
   "mandatory": false,
-  "notes": "Popup avatar: robust photo handling.",
-  "version_code": 52
+  "notes": "Header: outlined person icon.",
+  "version_code": 53
 }
