@@ -1,14 +1,14 @@
 {
-  "version": "1.4.25",
-  "versionName": "1.4.25",
-  "versionCode": 49,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.25/lifeez-v1.4.25-release.apk",
-  "changelog": "Fix: PIN lock screen now appears. Biometric unlock, auto-lock working.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.25/lifeez-v1.4.25-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.25/lifeez-v1.4.25-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.25/lifeez-v1.4.25-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.25/lifeez-v1.4.25-release.apk",
+  "version": "1.4.26",
+  "versionName": "1.4.26",
+  "versionCode": 50,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.26/lifeez-v1.4.26-release.apk",
+  "changelog": "Profile: only profile card remains.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.26/lifeez-v1.4.26-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.26/lifeez-v1.4.26-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.26/lifeez-v1.4.26-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.26/lifeez-v1.4.26-release.apk",
   "mandatory": false,
   "notes": "Settings v3 clean: Security (PIN, Fingerprint, Face) + Preferences (Currency, Notifications, Daily Briefing).",
-  "version_code": 35
+  "version_code": 50
 }
