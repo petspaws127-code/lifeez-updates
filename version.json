@@ -1,14 +1,14 @@
 {
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.23/lifeez-v1.4.23-release.apk",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.23/lifeez-v1.4.23-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.23/lifeez-v1.4.23-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.23/lifeez-v1.4.23-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.23/lifeez-v1.4.23-release.apk",
-  "changelog": "Settings v3 clean: Security (PIN, Fingerprint, Face) + Preferences (Currency, Notifications, Daily Briefing).",
+  "version": "1.4.24",
+  "versionName": "1.4.24",
+  "versionCode": 48,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.24/lifeez-v1.4.24-release.apk",
+  "changelog": "Settings security: secure PIN, biometric unlock, notification permissions, auto-lock.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.24/lifeez-v1.4.24-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.24/lifeez-v1.4.24-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.24/lifeez-v1.4.24-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.24/lifeez-v1.4.24-release.apk",
   "mandatory": false,
   "notes": "Settings v3 clean: Security (PIN, Fingerprint, Face) + Preferences (Currency, Notifications, Daily Briefing).",
-  "version": "1.4.23",
-  "versionCode": 47,
-  "versionName": "1.4.23",
   "version_code": 35
 }
