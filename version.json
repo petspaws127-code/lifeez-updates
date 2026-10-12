@@ -1,14 +1,14 @@
 {
-  "version": "1.4.32",
-  "versionName": "1.4.32",
-  "versionCode": 56,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
-  "changelog": "Fix: 'add reminder' creates Reminder with notification. Strict-time tasks become Reminders.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
+  "version": "1.4.33",
+  "versionName": "1.4.33",
+  "versionCode": 57,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
+  "changelog": "Mic fix: voice input now works properly.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
   "mandatory": false,
-  "notes": "Fix: 'add reminder' creates Reminder with notification. Strict-time tasks become Reminders.",
-  "version_code": 56
+  "notes": "Mic fix: voice input now works properly.",
+  "version_code": 57
 }
