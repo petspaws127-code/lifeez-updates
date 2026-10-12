@@ -1,14 +1,14 @@
 {
-  "version": "1.4.30",
-  "versionName": "1.4.30",
-  "versionCode": 54,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
-  "changelog": "Universal AI Router: navigation commands + strict-time tasks become Reminders with notifications.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.30/lifeez-v1.4.30-release.apk",
+  "version": "1.4.32",
+  "versionName": "1.4.32",
+  "versionCode": 56,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
+  "changelog": "Fix: 'add reminder' creates Reminder with notification. Strict-time tasks become Reminders.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.32/lifeez-v1.4.32-release.apk",
   "mandatory": false,
-  "notes": "Universal AI Router: navigation commands + strict-time tasks become Reminders with notifications.",
-  "version_code": 54
+  "notes": "Fix: 'add reminder' creates Reminder with notification. Strict-time tasks become Reminders.",
+  "version_code": 56
 }
