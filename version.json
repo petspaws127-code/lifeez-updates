@@ -1,14 +1,14 @@
 {
-  "version": "1.4.61",
-  "versionName": "1.4.61",
-  "versionCode": 85,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.61/lifeez-v1.4.61-release.apk",
-  "changelog": "Home date label 13px non-bold.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.61/lifeez-v1.4.61-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.61/lifeez-v1.4.61-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.61/lifeez-v1.4.61-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.61/lifeez-v1.4.61-release.apk",
+  "version": "1.4.62",
+  "versionName": "1.4.62",
+  "versionCode": 86,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.62/lifeez-v1.4.62-release.apk",
+  "changelog": "Fix: expense category dropdown now includes custom categories.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.62/lifeez-v1.4.62-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.62/lifeez-v1.4.62-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.62/lifeez-v1.4.62-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.62/lifeez-v1.4.62-release.apk",
   "mandatory": false,
-  "notes": "Home date label 13px non-bold.",
-  "version_code": 85
+  "notes": "Fix: expense category dropdown now includes custom categories.",
+  "version_code": 86
 }
