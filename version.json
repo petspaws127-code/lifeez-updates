@@ -1,14 +1,14 @@
 {
-  "version": "1.4.65",
-  "versionName": "1.4.65",
-  "versionCode": 89,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
-  "changelog": "Removed receipt/bill OCR scanner \u2014 lighter APK (~70MB).",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
+  "version": "1.4.67",
+  "versionName": "1.4.67",
+  "versionCode": 91,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.67/lifeez-v1.4.67-release.apk",
+  "changelog": "Robustness: 15s boot timeout (no black screen), offline-first local persistence, defensive auth checks.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.67/lifeez-v1.4.67-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.67/lifeez-v1.4.67-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.67/lifeez-v1.4.67-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.67/lifeez-v1.4.67-release.apk",
   "mandatory": false,
-  "notes": "Removed receipt/bill OCR scanner \u2014 lighter APK (~70MB).",
-  "version_code": 89
+  "notes": "Robustness: 15s boot timeout (no black screen), offline-first local persistence, defensive auth checks.",
+  "version_code": 91
 }
