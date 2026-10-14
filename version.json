@@ -1,14 +1,14 @@
 {
-  "version": "1.4.33",
-  "versionName": "1.4.33",
-  "versionCode": 57,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
-  "changelog": "Mic fix: voice input now works properly.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.33/lifeez-v1.4.33-release.apk",
+  "version": "1.4.60",
+  "versionName": "1.4.60",
+  "versionCode": 84,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.60/lifeez-v1.4.60-release.apk",
+  "changelog": "Home header unified: greeting, name and date in Poppins 20px bold, same as other pages.",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.60/lifeez-v1.4.60-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.60/lifeez-v1.4.60-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.60/lifeez-v1.4.60-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.60/lifeez-v1.4.60-release.apk",
   "mandatory": false,
-  "notes": "Mic fix: voice input now works properly.",
-  "version_code": 57
+  "notes": "Home header unified: greeting, name and date in Poppins 20px bold, same as other pages.",
+  "version_code": 84
 }
