@@ -1,14 +1,14 @@
 {
-  "version": "1.4.64",
-  "versionName": "1.4.64",
-  "versionCode": 88,
-  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.64/lifeez-v1.4.64-release.apk",
-  "changelog": "Fix: update download now shows real progress % with Cancel button.",
-  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.64/lifeez-v1.4.64-release.apk",
-  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.64/lifeez-v1.4.64-release.apk",
-  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.64/lifeez-v1.4.64-release.apk",
-  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.64/lifeez-v1.4.64-release.apk",
+  "version": "1.4.65",
+  "versionName": "1.4.65",
+  "versionCode": 89,
+  "apkUrl": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
+  "changelog": "Removed receipt/bill OCR scanner \u2014 lighter APK (~70MB).",
+  "apkUrlArm64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
+  "apkUrlV7": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
+  "apkUrlX86_64": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
+  "apk_url": "https://github.com/petspaws127-code/lifeez-updates/releases/download/v1.4.65/lifeez-v1.4.65-release.apk",
   "mandatory": false,
-  "notes": "Fix: update download now shows real progress % with Cancel button.",
-  "version_code": 88
+  "notes": "Removed receipt/bill OCR scanner \u2014 lighter APK (~70MB).",
+  "version_code": 89
 }
